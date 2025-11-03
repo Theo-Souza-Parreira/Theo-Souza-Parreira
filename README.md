@@ -1,7 +1,7 @@
-<h1 align="center">Olá 👋, eu sou o Theo Souza Parreira!</h1>
-<h3 align="center">🎓 Estudante de curso técnico, apaixonado por desenvolvimento e tecnologia</h3>
+![logo](https://github.com/Theo-Souza-Parreira/Theo-Souza-Parreira/blob/main/TH%C3%89O.png)
 
-<img align="rigth" alt="coding" width="200" src="https://media1.tenor.com/m/PLIr_VkF6ywAAAAC/ghostedvpn-hacker-cat.gif">
+<h1 align="center">Olá 👋, eu sou o Theo!</h1>
+<h3 align="center">🎓 Estudante, apaixonado por desenvolvimento e tecnologia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theo-souza-parreira&label=Profile%20views&color=0e75b6&style=flat" alt="theo-souza-parreira" /> </p>
 
