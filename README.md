@@ -9,6 +9,8 @@
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://linktr.ee/TheoS.Parreira](https://linktr.ee/TheoS.Parreira)
 
+- Meu LinkeedIn está em [https://www.linkedin.com/in/theo-souza-parreira-1b09982b9/](https://www.linkedin.com/in/theo-souza-parreira-1b09982b9/)
+
 - 📫 Como me contatar **theo.souza122@gmail.com**
 
 <p align="left">
